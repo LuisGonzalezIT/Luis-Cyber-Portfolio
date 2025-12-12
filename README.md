@@ -1,4 +1,3 @@
-# Luis-Cyber-Portfolio
 # Luis F. González – IT & Cybersecurity Portfolio
 
 **Bilingual U.S. Army Veteran (25B – IT Specialist)** building real-world cybersecurity, networking, and system administration hands-on experience.
