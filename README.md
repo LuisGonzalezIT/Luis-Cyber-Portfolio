@@ -40,6 +40,11 @@ Learning: TryHackMe, HackTheBox (beginner), UMGC cyber labs
 ⸻
 
 📬 Contact
-	•	LinkedIn: https://www.linkedin.com/in/luis-f-gonzalez-ramirez-34144a389
 
-	•	GitHub: https://github.com/LuisGonzalezIT
+	•	LinkedIn: 
+	
+https://www.linkedin.com/in/luisfgonzalez-ramirez-34144a389
+
+	•	GitHub: 
+	
+https://github.com/LuisGonzalezIT
