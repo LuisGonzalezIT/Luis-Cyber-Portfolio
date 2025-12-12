@@ -35,5 +35,6 @@ This repository documents my growth in **IT & Cybersecurity** through hands-on l
 
 ## 📬 Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/luisgonzalezit  
+- **LinkedIn:** linkedin.com/in/luis-f-gonzalez-ramirez-34144a389
+
 - **GitHub:** https://github.com/LuisGonzalezIT
