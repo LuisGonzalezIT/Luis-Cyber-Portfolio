@@ -46,3 +46,31 @@ https://www.linkedin.com/in/luisfgonzalez-ramirez-34144a389
 
 	•	GitHub: 
 https://github.com/LuisGonzalezIT
+
+---
+
+## 🧪 Home Lab Project: Active Directory Domain Services
+
+### 📌 Objective
+Deploy and validate a Windows Active Directory domain in a virtualized home lab environment using pfSense for routing and DNS resolution.
+
+### 🛠️ Technologies Used
+- Windows Server 2022 (Domain Controller)
+- Active Directory Domain Services (AD DS)
+- DNS
+- Windows 11 Client (Domain Joined)
+- pfSense Firewall
+- Oracle VirtualBox
+
+### 🔍 Key Tasks Performed
+- Installed and configured Active Directory Domain Services
+- Promoted Windows Server to Domain Controller
+- Configured DNS forward lookup zones
+- Joined Windows 11 client to the domain
+- Verified connectivity using `ipconfig`, `nslookup`, and domain login
+- Validated domain membership via Active Directory Users and Computers (ADUC)
+
+### 🖼️ Evidence
+![ADUC Domain and Client](01_ADUC_Domain_and_Client.png)
+
+Add Active Directory home lab documentation
