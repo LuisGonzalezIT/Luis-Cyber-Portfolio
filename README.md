@@ -51,10 +51,15 @@ https://github.com/LuisGonzalezIT
 
 ## 🧪 Home Lab Project: Active Directory Domain Services
 
-### 📌 Objective
-Deploy and validate a Windows Active Directory domain in a virtualized home lab environment using pfSense for routing and DNS resolution.
+## Lab 01 – Active Directory Domain Deployment
 
-### 🛠️ Technologies Used
+### 📌 Objective
+Deploy and validate a Windows Active Directory domain in a virtualized home lab using pfSense for routing and DNS resolution.
+
+### 🛠️ Technologies Used/ Lab Environment
+- Virtualization: Oracle VirtualBox
+- Network: pfSense (NAT + Internal LAN)
+- Domain: lab.local
 - Windows Server 2022 (Domain Controller)
 - Active Directory Domain Services (AD DS)
 - DNS
