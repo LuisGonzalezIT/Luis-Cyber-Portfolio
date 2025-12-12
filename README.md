@@ -56,7 +56,8 @@ https://github.com/LuisGonzalezIT
 ### 📌 Objective
 Deploy and validate a Windows Active Directory domain in a virtualized home lab using pfSense for routing and DNS resolution.
 
-### 🛠️ Technologies Used/ Lab Environment
+### 🛠️ Technologies Used / Lab Environment
+
 - Virtualization: Oracle VirtualBox
 - Network: pfSense (NAT + Internal LAN)
 - Domain: lab.local
@@ -64,8 +65,7 @@ Deploy and validate a Windows Active Directory domain in a virtualized home lab 
 - Active Directory Domain Services (AD DS)
 - DNS
 - Windows 11 Client (Domain Joined)
-- pfSense Firewall
-- Oracle VirtualBox
+
 
 ### 🔍 Key Tasks Performed
 - Installed and configured Active Directory Domain Services
