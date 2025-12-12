@@ -70,7 +70,13 @@ Deploy and validate a Windows Active Directory domain in a virtualized home lab 
 - Verified connectivity using `ipconfig`, `nslookup`, and domain login
 - Validated domain membership via Active Directory Users and Computers (ADUC)
 
-### 🖼️ Evidence
-![ADUC Domain and Client](01_ADUC_Domain_and_Client.png)
+### 📸 Evidence (Screenshots)
 
-Add Active Directory home lab documentation
+![ADUC Domain and Client](images/01_ADUC_Domain_and_Client.png)
+
+*Active Directory Users and Computers showing domain structure and joined Windows 11 client.*
+
+**Status:** Completed (Lab 01)
+
+## GitHub Practice
+Learning how to manage my portfolio with GitHub Desktop.
